@@ -281,6 +281,28 @@ The project also includes research-based recommendations and lessons learned.
 
 ---
 
+### 🫀 Heart Disease Prediction — Machine Learning & Artificial Neural Networks
+
+**Technologies:** Python, Scikit-learn, TensorFlow, Keras, XGBoost, Pandas, NumPy, Matplotlib, Seaborn
+
+An academic Artificial Intelligence and Machine Learning project investigating heart disease classification using six traditional machine learning algorithms and an Artificial Neural Network (ANN).
+
+The project includes collaborative machine learning experimentation and individual ANN research, covering data preprocessing, exploratory data analysis, feature engineering, model development, hyperparameter tuning, cross-validation, and performance evaluation.
+
+**Key Results:**
+- Logistic Regression achieved approximately 89.47% classification accuracy.
+- The tuned ANN achieved approximately 0.95 ROC-AUC.
+- Compared seven classification approaches using accuracy, precision, recall, F1-score, and ROC-AUC.
+- Investigated feature importance and the trade-offs between predictive performance and model complexity.
+
+**Skills Demonstrated:** Python • Machine Learning • Deep Learning • Neural Networks • TensorFlow • Data Science • Predictive Modelling • Hyperparameter Tuning • Model Evaluation
+
+**Note:** Academic research prototype; not clinically validated or intended for medical diagnosis.
+
+[View GitHub Repository](https://github.com/IsmaHaseemdeen/Heart-Disease-Prediction-ML-and-ANN)
+
+---
+
 ## 🎯 Career Interests
 
 I'm interested in graduate and entry-level opportunities across:

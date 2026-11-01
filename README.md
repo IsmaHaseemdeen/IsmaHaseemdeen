@@ -15,7 +15,7 @@ My GitHub portfolio showcases projects across **software engineering, full-stack
 
 ## 👩‍💻 About Me
 
-- 🎓 **BSc (Hons) in Data Science** — London Metropolitan University
+- 🎓 **BSc (Hons) in Data Science** - London Metropolitan University
 - 🎓 **Pearson BTEC HND in Computing (Software Engineering)**
 - 💼 **Former Full-Stack Developer Intern** at Infora Tech
 - 🌐 Experienced in frontend, backend, REST APIs, and database integration
@@ -110,9 +110,9 @@ Alongside software development, I have practical academic experience in project 
 
 ## 💼 Professional Experience
 
-### Full-Stack Developer Intern — Infora Tech
+### Full-Stack Developer Intern - Infora Tech
 
-**January 2026 – June 2026 | 5-Month Internship**
+**January 2026 - June 2026 | 5-Month Internship**
 
 - Contributed to real-world software development across frontend, backend, database, and API workflows.
 - Developed responsive user interfaces using React.js, Next.js, JavaScript, TypeScript, CSS, and Tailwind CSS.
@@ -131,7 +131,7 @@ My repositories demonstrate practical development skills alongside analytical, d
 
 ## 💻 Software Engineering & Full-Stack Development
 
-### 🏥 1. ClinAura — Health Monitoring & Doctor Channeling System
+### 🏥 1. ClinAura - Health Monitoring & Doctor Channeling System
 
 **Technologies:** React.js, ASP.NET Core, C#, SQL Server, Entity Framework Core, Python, Logistic Regression, Power BI
 
@@ -159,7 +159,7 @@ Designed relational database structures and implemented application workflows co
 
 ---
 
-### 🏢 3. Grifindo Lanka Toys — Leave Management System
+### 🏢 3. Grifindo Lanka Toys - Leave Management System
 
 **Technologies:** C#, .NET, Visual Studio, Microsoft SQL Server
 
@@ -173,7 +173,7 @@ The system includes leave applications, approval management, rostering, employee
 
 ---
 
-### 🩺 4. Doctor Channelling System — Java Data Structures & Algorithms
+### 🩺 4. Doctor Channelling System - Java Data Structures & Algorithms
 
 **Technologies:** Java, Object-Oriented Programming, Linked Lists, FIFO Queues
 
@@ -187,7 +187,7 @@ The project also explores algorithm efficiency, data structure selection, and co
 
 ---
 
-### 📚 5. Dream Bookshop — Python Data Analysis Application
+### 📚 5. Dream Bookshop - Python Data Analysis Application
 
 **Technologies:** Python, Pandas, Matplotlib, OOP, SOLID Principles
 
@@ -223,7 +223,7 @@ Created Tableau dashboards illustrating business performance, customer footfall 
 
 ## 📁 Project Management, Business Analysis & System Design
 
-### 🛒 7. Fresh Grocers — System Analysis & Design
+### 🛒 7. Fresh Grocers - System Analysis & Design
 
 **Focus:** Requirements Engineering, Feasibility Studies, Agile, UML, Data Flow Diagrams, Database Design
 
@@ -237,7 +237,7 @@ Analysed existing manual ordering processes, identified operational challenges, 
 
 ---
 
-### 🧠 8. BrainNest Academy — Business Process Analysis
+### 🧠 8. BrainNest Academy - Business Process Analysis
 
 **Focus:** Business Process Analysis, Data Analytics, Excel, Power BI, Decision-Making
 
@@ -251,7 +251,7 @@ The project demonstrates workflow analysis, data-driven evaluation, business int
 
 ---
 
-### 💼 9. Enomy Finances — Systems Analysis & Design
+### 💼 9. Enomy Finances - Systems Analysis & Design
 
 **Focus:** SDLC, Requirements Engineering, Feasibility Studies, UML, Risk Management, Wireframing
 
